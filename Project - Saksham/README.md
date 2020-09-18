@@ -26,3 +26,8 @@ Here Maps API
 
 Stripe payment gateway
 
+## The Website looks like :
+
+![WhatsApp Image 2020-09-18 at 9 54 14 PM (1)](https://user-images.githubusercontent.com/56873389/93622420-be6a5000-f9fa-11ea-8adb-d39fb8439fe2.jpeg)
+![WhatsApp Image 2020-09-18 at 9 54 23 PM (1)](https://user-images.githubusercontent.com/56873389/93622436-c75b2180-f9fa-11ea-830e-e97f3d4706e9.jpeg)
+![WhatsApp Image 2020-09-18 at 9 54 38 PM (1)](https://user-images.githubusercontent.com/56873389/93622450-cde99900-f9fa-11ea-86ff-f4df4a6a3a32.jpeg)
