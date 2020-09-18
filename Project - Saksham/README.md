@@ -53,7 +53,5 @@ An app 'Saksham' has to be installed by the User who is seeking household helper
 
 
 ![WhatsApp Image 2020-09-18 at 5 04 33 PM](https://user-images.githubusercontent.com/56873389/93622693-30429980-f9fb-11ea-891f-4d8b4ed9f240.jpeg)
-
-
 ![WhatsApp Image 2020-09-18 at 5 09 47 PM](https://user-images.githubusercontent.com/56873389/93622703-36387a80-f9fb-11ea-9b13-d0f1c4d7632e.jpeg)
 
