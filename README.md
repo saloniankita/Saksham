@@ -5,12 +5,23 @@
 
 ## Project - Saksham  
 
-### Tech Stack 
+### Tech Stack
+
 Raspberry Pi
+
 Flutter
+
 Firebase
+
+HTML
+
+CSS
+
+JavaScript
+
 Pushengage
+
 Here Maps API
-Microsoft Visual Studio 
+
 Stripe payment gateway
 
