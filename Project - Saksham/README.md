@@ -9,7 +9,7 @@
 
 An app 'Saksham' has to be installed by the User who is seeking household helpers or workers and through the Location services, they can set the range depending on their preferences (for instance, the workers should be near 5-10 kms of their residence). They can add the monthly wages they are willing to provide the helpers. If there are workers available in the nearby areas, they would be alloted to them based on their preferences.
 
-### The video of its implementation can be found at : https://youtu.be/xfX3IXFCqBc 
+### The video of its implementation can be found at : https://youtu.be/ytER7EYX7zA 
 
 ### The detailed presentation can be found at : https://docs.google.com/presentation/d/1GkVqdkN8k-nnafUNZzut7OqHeLTN_47gMCfF4MxZoLI/edit#slide=id.g535a86d7c0_0_379
 
