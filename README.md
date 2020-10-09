@@ -1,5 +1,3 @@
-# GirlScript Hackathon 2020
+# Saksham
 
-## Team - Game of Coders
-## Members - Ankita Saloni, Tarun, Irfan Aadil, Gaurav Kumar
-
+Empowering rural women through Technology
