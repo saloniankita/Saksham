@@ -1,0 +1,74 @@
+lement.style {
+}
+html[Attributes Style] {
+    -webkit-locale: "en";
+}
+injected stylesheet
+html:not(.__lt-dummy-1):not(.__lt-dummy-2):not(.__lt-dummy-3):not(.__lt-dummy-4):not(.__lt-dummy-5):not(.__lt-dummy-6):not(.__lt-dummy-7) {
+}
+<style>
+:root {
+    --darkreader-neutral-background: #16181a;
+    --darkreader-neutral-text: #ffffff;
+    --darkreader-selection-background: #006bf4;
+    --darkreader-selection-text: #ffffff;
+}
+html {
+    touch-action: manipulation;
+}
+body, html {
+    height: 100%;
+}
+html {
+    line-height: 1.15;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+<style>
+html, body, input, textarea, select, button {
+    border-color: #a39784;
+    color: #ffffff;
+}
+<style>
+html, body, input, textarea, select, button {
+    background-color: #1d2021;
+}
+<style>
+html {
+    background-color: #1d2021 !important;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+<style>
+* {
+    scrollbar-color: #292d2f #5f666b;
+}
+user agent stylesheet
+html {
+    display: block;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+<style>
+::-webkit-scrollbar {
+    background-color: #292d2f;
+    color: #f5ebdb;
+}
+<style>
+::-webkit-scrollbar-corner {
+    background-color: #1d2021;
+}
+<style>
+::-webkit-scrollbar-thumb {
+    background-color: #5f666b;
+}
+<style>
+::selection {
+    background-color: #006bf4 !important;
+    color: #ffffff !important;
+}
